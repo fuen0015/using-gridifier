@@ -25,10 +25,10 @@ body {
   width: 100%;
 }
 
-.figure {
+figure {
   margin: 0;
 }
 
 figcaption {
-  padding: 5em;
+  padding: .5em;
 }
